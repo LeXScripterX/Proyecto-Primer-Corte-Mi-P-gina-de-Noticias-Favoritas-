@@ -1,61 +1,79 @@
-Mi_pagina_Noticias
-Este es un proyecto web de noticias llamado DracoNyx, donde se pueden encontrar las últimas noticias de tecnología, videojuegos y eventos relevantes.
+📰 DracoNyx - Página de Noticias
 
-Características
-Diseño responsivo con HTML y CSS.
+No se encontró ruta/a/tu/captura.png ❌
 
-Barra de navegación con secciones de Inicio, Noticias y Contacto.
+DracoNyx es un proyecto web que muestra las últimas noticias sobre tecnología, videojuegos y eventos relevantes. 🎮💻 El diseño está inspirado en la estética de League of Legends, con colores vibrantes y un estilo moderno. 🎨✨
 
-Tablas para mostrar las últimas noticias con fecha y fuente.
+🚀 Características
 
-Sección de noticias destacadas con tarjetas y enlaces a las fuentes originales.
+✅ Diseño responsivo: Adaptado para dispositivos móviles, tablets y desktop. 📱💻🖥️✅ Barra de navegación: Secciones de Inicio, Noticias y Contacto. 🧭✅ Tablas de noticias: Últimas noticias con fecha y fuente. 📅📰✅ Noticias destacadas: Tarjetas con enlaces a las fuentes originales. 🔗✨✅ Organización modular: Código CSS separado en archivos independientes para facilitar el mantenimiento. 📂
 
-Tecnologías utilizadas
+🛠️ Tecnologías utilizadas
 
-HTML5 para la estructura del sitio.
+HTML5: Para la estructura del sitio. 🏗️
 
-CSS3 para los estilos.
+CSS3: Para los estilos y diseño responsivo. 🎨
 
-Estructura del Proyecto
+📁 Estructura del Proyecto
 
-Mi_pagina_Noticia/
-│── css/
-│ ├── style.css
-│── index.html
-│── README.md
+Mi_pagina_Noticias/
+│
+├── CSS/
+│   └── style.css  # Archivo de estilos principal
+│
+├── img/           # Carpeta para imágenes (si las tienes)
+│
+├── index.html     # Página principal del proyecto
+│
+└── README.md      # Documentación del proyecto
 
-Instalación y Uso
+🖥️ Instalación y Uso
 
-Clona el repositorio:
+Clona el repositorio en tu máquina local 🖥️📥
 
 git clone https://github.com/LeXScripterX/Proyecto-Primer-Corte-Mi-P-gina-de-Noticias-Favoritas-.git
 
-Abre el archivo index.html en tu navegador.
+Navega a la carpeta del proyecto 📂
 
-Explicación de la organización del código
+cd Mi_pagina_Noticias
 
-He estructurado mi código de manera modular para facilitar la gestión y mantenimiento del proyecto. Todo el código CSS está separado en la carpeta css/ para mantener una mejor organización y permitir cambios rápidos en los estilos. Las imágenes utilizadas en el proyecto se almacenan en la carpeta img/, lo que ayuda a mantener el directorio principal limpio y ordenado.
+Abre el archivo index.html en tu navegador 🌐
 
-Lo que aprendí
+Windows: Doble clic en index.html
 
-Durante el desarrollo de DracoNyx, aprendí la importancia de estructurar el código de forma eficiente, aplicar buenas prácticas de desarrollo web y diseñar interfaces atractivas y funcionales. Además, mejoré mis habilidades en HTML y CSS, asegurándome de que el diseño sea responsivo y accesible.
+Mac/Linux: Ejecuta en terminal:
 
-Colores y Diseño
+open index.html  # macOS
+xdg-open index.html  # Linux
 
-Los colores utilizados en el diseño están inspirados en la estética de League of Legends, ya que es mi juego favorito. Busqué transmitir una experiencia visual vibrante y llamativa, combinando tonos oscuros y dorados con detalles luminosos que evocan la fantasía y el dinamismo del juego.
+📌 Explicación de la organización del código
 
-Captura de pantalla
+📌 CSS modular: Código separado en la carpeta css/ para facilitar mantenimiento y actualización.
 
-Contribuciones
-Desarrollado por LeXScripterX
+📌 Estructura limpia: Imágenes almacenadas en img/ para mantener ordenado el directorio principal.
 
-Licencia
-Este proyecto está licenciado bajo la GNU General Public License v3.0.
+📌 HTML semántico: Uso de etiquetas semánticas para mejorar accesibilidad y SEO. 🔍
 
-GNU General Public License v3.0
+🎓 Lo que aprendí
 
-Este software es libre y puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU, publicada por la Free Software Foundation, ya sea la versión 3 de la Licencia o (a tu elección) cualquier versión posterior.
+💡 La importancia de estructurar el código de manera eficiente.💡 Aplicar buenas prácticas de desarrollo web.💡 Diseñar interfaces atractivas y funcionales.💡 Mejorar habilidades en HTML y CSS, asegurando diseño responsivo y accesible.
 
-Este programa se distribuye con la esperanza de que sea útil, pero SIN NINGUNA GARANTÍA; sin siquiera la garantía implícita de COMERCIALIZACIÓN o ADECUACIÓN PARA UN PROPÓSITO PARTICULAR. Consulta la Licencia Pública General de GNU para más detalles.
+🎨 Colores y Diseño
 
-Puedes encontrar una copia de la GNU General Public License en https://www.gnu.org/licenses/gpl-3.0.html.
+🎨 Los colores utilizados están inspirados en la estética de League of Legends. Se combinaron tonos oscuros y dorados con detalles luminosos para transmitir una experiencia visual vibrante y dinámica. ⚡🌟
+
+📷 Captura de pantalla
+
+📌 Pendiente: Agregar una imagen de la captura de pantalla aquí.
+
+🤝 Contribuciones
+
+Este proyecto fue desarrollado por LeXScripterX. 💻🚀Si deseas contribuir, ¡haz un fork y envía un pull request! 🔄✨
+
+📜 Licencia
+
+Este proyecto está licenciado bajo la GNU General Public License v3.0. 📝
+
+📌 GPLv3 License - Puedes ver más detalles en GNU GPLv3.
+
+
