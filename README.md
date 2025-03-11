@@ -7,11 +7,14 @@ DracoNyx es un proyecto web que muestra las últimas noticias sobre tecnología,
 
 ## 🚀 Características
 
-✅ Diseño responsivo: Adaptado para dispositivos móviles, tablets y desktop.
-📱💻🖥️✅ Barra de navegación: Secciones de Inicio, Noticias y Contacto.
-🧭✅ Tablas de noticias: Últimas noticias con fecha y fuente.
-📅📰✅ Noticias destacadas: Tarjetas con enlaces a las fuentes originales.
-🔗✨✅ Organización modular: Código CSS separado en archivos independientes para facilitar el mantenimiento. 📂
+## 🚀 Características  
+
+- ✅ **Diseño responsivo**: Adaptado para dispositivos móviles, tablets y desktop. 📱💻🔦  
+- ✅ **Barra de navegación**: Secciones de Inicio, Noticias y Contacto. 🫣  
+- ✅ **Tablas de noticias**: Últimas noticias con fecha y fuente. 📅📰  
+- ✅ **Noticias destacadas**: Tarjetas con enlaces a las fuentes originales. 🔗✨  
+- ✅ **Organización modular**: Código CSS separado en archivos independientes para facilitar el mantenimiento. 📂  
+
 
 ## 🛠️ Tecnologías utilizadas
 
