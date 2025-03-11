@@ -67,10 +67,10 @@ xdg-open index.html  # Linux
 
 ## 🎓 Lo que aprendí
 
--💡 La importancia de estructurar el código de manera eficiente.
--💡 Aplicar buenas prácticas de desarrollo web.
--💡 Diseñar interfaces atractivas y funcionales.
--💡 Mejorar habilidades en HTML y CSS, asegurando diseño responsivo y accesible.
+- 💡 La importancia de estructurar el código de manera eficiente.
+- 💡 Aplicar buenas prácticas de desarrollo web.
+- 💡 Diseñar interfaces atractivas y funcionales.
+- 💡 Mejorar habilidades en HTML y CSS, asegurando diseño responsivo y accesible.
 
 ### 🎨 Colores y Diseño
 
