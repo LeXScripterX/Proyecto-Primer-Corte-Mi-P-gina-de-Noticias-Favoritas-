@@ -5,8 +5,6 @@
 
 DracoNyx es un proyecto web que muestra las últimas noticias sobre tecnología, videojuegos y eventos relevantes. 🎮💻 El diseño está inspirado en la estética de League of Legends, con colores vibrantes y un estilo moderno. 🎨✨
 
-## 🚀 Características
-
 ## 🚀 Características  
 
 - ✅ **Diseño responsivo**: Adaptado para dispositivos móviles, tablets y desktop. 📱💻🔦  
