@@ -1,6 +1,7 @@
 # 📰 DracoNyx - Página de Noticias
 
-![[img/draconyx.png]]
+![DracoNyx Logo](img/draconyx.png)
+
 
 DracoNyx es un proyecto web que muestra las últimas noticias sobre tecnología, videojuegos y eventos relevantes. 🎮💻 El diseño está inspirado en la estética de League of Legends, con colores vibrantes y un estilo moderno. 🎨✨
 
@@ -66,10 +67,10 @@ xdg-open index.html  # Linux
 
 ## 🎓 Lo que aprendí
 
-💡 La importancia de estructurar el código de manera eficiente.
-💡 Aplicar buenas prácticas de desarrollo web.
-💡 Diseñar interfaces atractivas y funcionales.
-💡 Mejorar habilidades en HTML y CSS, asegurando diseño responsivo y accesible.
+-💡 La importancia de estructurar el código de manera eficiente.
+-💡 Aplicar buenas prácticas de desarrollo web.
+-💡 Diseñar interfaces atractivas y funcionales.
+-💡 Mejorar habilidades en HTML y CSS, asegurando diseño responsivo y accesible.
 
 ### 🎨 Colores y Diseño
 
