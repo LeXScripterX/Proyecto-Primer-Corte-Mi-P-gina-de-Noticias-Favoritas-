@@ -1,11 +1,11 @@
-# 📰 DracoNyx - Página de Noticias
+## 📰 DracoNyx - Página de Noticias
 
 ![DracoNyx Logo](img/draconyx.png)
 
 
 DracoNyx es un proyecto web que muestra las últimas noticias sobre tecnología, videojuegos y eventos relevantes. 🎮💻 El diseño está inspirado en la estética de League of Legends, con colores vibrantes y un estilo moderno. 🎨✨
 
-## 🚀 Características  
+### 🚀 Características  
 
 - ✅ **Diseño responsivo**: Adaptado para dispositivos móviles, tablets y desktop. 📱💻🔦  
 - ✅ **Barra de navegación**: Secciones de Inicio, Noticias y Contacto. 🫣  
@@ -14,7 +14,7 @@ DracoNyx es un proyecto web que muestra las últimas noticias sobre tecnología,
 - ✅ **Organización modular**: Código CSS separado en archivos independientes para facilitar el mantenimiento. 📂  
 
 
-## 🛠️ Tecnologías utilizadas
+### 🛠️ Tecnologías utilizadas
 
 HTML5: Para la estructura del sitio. 🏗️
 
@@ -35,7 +35,7 @@ Mi_pagina_Noticias/
 └── README.md      # Documentación del proyecto
 ```
 
-## 🖥️ Instalación y Uso
+### 🖥️ Instalación y Uso
 
 Clona el repositorio en tu máquina local 🖥️📥
 
@@ -66,7 +66,7 @@ xdg-open index.html  # Linux
 
 📌 HTML semántico: Uso de etiquetas semánticas para mejorar accesibilidad y SEO. 🔍
 
-## 🎓 Lo que aprendí
+### 🎓 Lo que aprendí
 
 - 💡 La importancia de estructurar el código de manera eficiente.
 - 💡 Aplicar buenas prácticas de desarrollo web.
